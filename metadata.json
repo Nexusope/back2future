@@ -1,0 +1,6 @@
+{
+  "name": "Back2theFuture",
+  "description": "An AI-powered future-self companion. Forge a temporal path and speak with your future self.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
